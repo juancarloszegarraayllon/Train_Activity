@@ -13,6 +13,6 @@ Create a train schedule application that incorporates Firebase to host arrival a
  Worked on capturing the data and showing it on top of the train information
 
 #Technical approach
-Layout with: HTML, CSS and Bootstrap
-Capured the data using JQuery
-Save the data using Firebase so users from many different machines must be able to view same train times
+Layout with: HTML, CSS and Bootstrap.
+Capured the data using JQuery.
+Save the data using Firebase so users from many different machines must be able to view same train times.
